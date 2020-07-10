@@ -8,7 +8,7 @@
 
 Eu sou Caio César de Oliveira e sou desenvolvedor backend
 
- - 💻 C#|VB.NET|SQL|JavaScript
+ - 💻 C# | VB.NET | SQL | JavaScript
  - 📚 Estudando tecnologias para me tornar um desenvolvedor Fullstack.
  - ❤ Stack preferida: NodeJS, React e React Native
  - 🎨 Aventureiro em Design de Interfaces
