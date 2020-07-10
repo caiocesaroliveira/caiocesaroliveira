@@ -1,16 +1,14 @@
-### Hi there 👋
+# Caio César de Oliveira 👨‍💻
 
-<!--
-**caiocesaroliveira/caiocesaroliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiocesaroliveira/)](https://www.linkedin.com/in/caiocesaroliveira/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caiojr91)](https://twitter.com/caiojr91)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayo.cesar.oliveira@gmail.com)](mailto:kayo.cesar.oliveira@gmail.com)
 
-Here are some ideas to get you started:
+### Olá! Bem vindo ao meu perfil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou Caio César de Oliveira e sou desenvolvedor backend
+
+ - 💻 C#|VB.NET|SQL|JavaScript
+ - 📚 Estudando tecnologias para me tornar um desenvolvedor Fullstack.
+ - ❤ Stack preferida: NodeJS, React e React Native
+ - 🎨 Aventureiro em Design de Interfaces
