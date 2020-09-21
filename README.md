@@ -14,6 +14,6 @@ Gosto de estudar e aprender algo novo diariamente, além de poder colaborar com 
 
  - 👨‍💻 C# | VB.NET | SQL | JavaScript
  - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - **Estácio de Sá**
- - 📚 Aluno do bootcamp Desenvolvedor FullStack do  **IGTI - Instituto de Gestão e Tecnologia da Informação**
+ - 📚 Aluno do bootcamp Desenvolvedor Frontend do  **IGTI - Instituto de Gestão e Tecnologia da Informação**
  - ⚛❤ Techs preferidas: JavaScript, TypeScript, Node, React, React Native
  - 🎨 Aventureiro em UX/UI e Design Gráfico
