@@ -24,3 +24,5 @@
 **📖🤓 Focado atualmente:** NodeJS | React | Angular | MongoDB
 
 **❤ Preferidas:** JavaScript | TypeScript | Node | React | React Native
+
+**📖🤓 Conhecimentos básicos:** HTML | CSS | Git | Github
