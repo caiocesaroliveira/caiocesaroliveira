@@ -4,16 +4,23 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/caiojr91)](https://twitter.com/caiojr91)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayo.cesar.oliveira@gmail.com)](mailto:kayo.cesar.oliveira@gmail.com)
 
-### Olá! Seja bem-vindo ao meu perfil.
+## Sobre
+👨‍💻 Desenvolvedor Backend
 
-Meu nome é Caio, sou desenvolvedor backend há quase 10 anos.
+👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
-Minha principal experiência atualmente é C#, VB.NET e SQL Server.
+🎂 29 anos
 
-Gosto de estudar e aprender algo novo diariamente, além de poder colaborar com outros devs.
+🌎 Natural de Juiz de Fora/MG
 
- - 👨‍💻 C# | VB.NET | SQL | JavaScript
- - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas - **Estácio de Sá**
- - 📚 Aluno do bootcamp Desenvolvedor Frontend do  **IGTI - Instituto de Gestão e Tecnologia da Informação**
- - ⚛❤ Techs preferidas: JavaScript, TypeScript, Node, React, React Native
- - 🎨 Aventureiro em UX/UI e Design Gráfico
+❤ Fanático por tudo que envolva tecnologia principalmente programação
+
+
+
+## Tecnologias
+
+**👨‍💻 Dominantes:** C# | VB.NET | SQL Server | JavaScript | TypeScript 
+
+**📖🤓 Focado atualmente:** NodeJS | React | Angular | MongoDB
+
+**❤ Preferidas:** JavaScript | TypeScript | Node | React | React Native
