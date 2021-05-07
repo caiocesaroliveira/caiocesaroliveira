@@ -21,7 +21,7 @@
 
 **👨‍💻 Dominantes:** C# | VB.NET | SQL Server | JavaScript | TypeScript 
 
-**📖🤓 Focado atualmente:** NodeJS | React | Angular | MongoDB
+**📖🤓 Focado atualmente:** NodeJS | React
 
 **❤ Preferidas:** JavaScript | TypeScript | Node | React | React Native
 
