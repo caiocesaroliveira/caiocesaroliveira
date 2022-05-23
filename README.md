@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente trabalhando na [e-Auditoria](http://www.e-auditoria.com.br/)
 
-- 👨‍💻 **C#, React, MySQL**
+- 👨‍💻 **C#|SQL|JS|TS**
 
 - ❤ Tudo que envolva tecnologia
 
