@@ -55,7 +55,7 @@
 </p>
 <br/><br/>
 
-<div align="left">
+<div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiocesaroliveira&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiocesaroliveira&theme=aura)
